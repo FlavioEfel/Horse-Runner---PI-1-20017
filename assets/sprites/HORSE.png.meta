@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 29e0f631352bead449ca251837195ca3
+timeCreated: 1495120198
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HORSE_0
+    21300002: HORSE_1
+    21300004: HORSE_2
+    21300006: HORSE_3
+    21300008: HORSE_4
+    21300010: HORSE_5
+    21300012: HORSE_6
+    21300014: HORSE_7
+    21300016: HORSE_8
+    21300018: HORSE_9
+    21300020: HORSE_10
+    21300022: HORSE_11
+    21300024: HORSE_12
+    21300026: HORSE_13
+    21300028: HORSE_14
+    21300030: HORSE_15
+    21300032: HORSE_16
+    21300034: HORSE_17
+    21300036: HORSE_18
+    21300038: HORSE_19
+    21300040: HORSE_20
+    21300042: HORSE_21
+    21300044: HORSE_22
+    21300046: HORSE_23
+    21300048: HORSE_24
+    21300050: HORSE_25
+    21300052: HORSE_26
+    21300054: HORSE_27
+    21300056: HORSE_28
+    21300058: HORSE_29
+    21300060: HORSE_30
+    21300062: HORSE_31
+    21300064: HORSE_32
+    21300066: HORSE_33
+    21300068: HORSE_34
+    21300070: HORSE_35
+    21300072: HORSE_36
+    21300074: HORSE_37
+    21300076: HORSE_38
+    21300078: HORSE_39
+    21300080: HORSE_40
+    21300082: HORSE_41
+    21300084: HORSE_42
+    21300086: HORSE_43
+    21300088: HORSE_44
+    21300090: HORSE_45
+    21300092: HORSE_46
+    21300094: HORSE_47
+    21300096: HORSE_48
+    21300098: HORSE_49
+    21300100: HORSE_50
+    21300102: HORSE_51
+    21300104: HORSE_52
+    21300106: HORSE_53
+    21300108: HORSE_54
+    21300110: HORSE_55
+    21300112: HORSE_56
+    21300114: HORSE_57
+    21300116: HORSE_58
+    21300118: HORSE_59
+    21300120: HORSE_60
+    21300122: HORSE_61
+    21300124: HORSE_62
+    21300126: HORSE_63
+    21300128: HORSE_64
+    21300130: HORSE_65
+    21300132: HORSE_66
+    21300134: HORSE_67
+    21300136: HORSE_68
+    21300138: HORSE_69
+    21300140: HORSE_70
+    21300142: HORSE_71
+    21300144: HORSE_72
+    21300146: HORSE_73
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HORSE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 644
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 644
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 644
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 464
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 464
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_7
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 464
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 271
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 271
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_11
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 271
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 86
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 86
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HORSE_15
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 86
+        width: 325
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
